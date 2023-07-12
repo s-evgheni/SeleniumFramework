@@ -17,3 +17,6 @@ NOTE:
 MacOS blocks executable binaries downloaded from the internet.
 In order to allow it you might need to CMD+CLICK on the file before runnign this program to add appropriate permissions.
 
+
+
+---- After upgrade to WebDriver you won't need to download drivers manually
